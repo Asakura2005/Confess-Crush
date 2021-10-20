@@ -12,9 +12,9 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: ' Tí gõ đầu chị nha',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333 ',
+    mess: ' Yêu bạn nhiều nhiều 😘😘',
+    messDesc: ' Tí gõ đầu chị nha ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/iam.cat411' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
