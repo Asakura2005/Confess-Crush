@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: ' Xấu zai lắm 😒',
     question: 'Cảm ơn bọn tớ biết mà🙆🏻‍♀️',
     btnReply: 'Hihihihi🙄',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333 ',
+    reply: ' con chi xấu lắm 🤣',
     mess: ' Tóm lại bọn tớ yêu các cậu 🤣',
     messDesc: 'Bai Bai nha bọn tớ sẽ lun ở đây',
     btnAccept: 'Bai Bai 🤣',
