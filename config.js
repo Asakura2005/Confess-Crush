@@ -15,4 +15,4 @@ const CONFIG = {
     messDesc: 'Tí thi xong đi đâu bố đi ké vs nha',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/iam.cat411' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}s
+}
