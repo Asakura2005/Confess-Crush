@@ -1,7 +1,8 @@
 const CONFIG = {
     titleWeb: "Gửi choa...🥰",
     introTitle: 'Con gái yêu 🤣',
-    introDesc: `Con biết gì không ❤️❤️❤️❤️❤️❤️❤️`,
+    introDesc: `Con biết gì không 
+    ❤️❤️❤️❤️❤️❤️❤️`,
     btnIntro: ' Tiếp đi ',
     title: 'Nhìn cái gì mà nhìn yêu không mà nhìn ',
     desc: 'Yêu bố không nè :33 ',
